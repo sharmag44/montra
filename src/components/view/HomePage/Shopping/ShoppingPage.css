@@ -1,0 +1,7 @@
+.Shopping {
+      background-image: url('../../../assets/shoppingBackground.png');
+      background-size: cover;
+      height: 100vh;
+      background-clip: border-box;
+      background-position: bottom;
+}

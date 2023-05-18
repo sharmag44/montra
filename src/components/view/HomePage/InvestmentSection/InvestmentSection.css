@@ -1,0 +1,41 @@
+.Investment-section p{
+    font-family: 'Test Söhne';
+    font-size: 20px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #50CCFE;
+}
+.Investment-section h3{
+    font-family: 'Test Söhne';
+    font-size: 40px;
+    line-height: 105%;
+    /* or 42px */
+    letter-spacing: -0.03em;
+    color: #1E336B;
+}
+.investment-image{
+    width: 100%;
+    margin-left: 20px;
+}
+.investment-section{
+    margin-top: 20px;
+}
+.Investment-inside-section h4{
+    width: 251px;
+    height: 22px;
+    font-family: 'Test Söhne';
+    font-size: 18px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #1E336B;
+}
+.Investment-inside-section p{
+    width: 262px;
+    height: 72px;
+    font-family: 'Test Söhne';
+    font-size: 14px;
+    line-height: 130%;
+    color: #1E336B;
+}

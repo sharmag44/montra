@@ -1,0 +1,119 @@
+.title-payment {
+      color: #50ccfe;
+      font-size: 20px;
+}
+.subTitle__payment {
+      color: #1e336b;
+      font-size: 35px;
+      line-height: 50px;
+}
+.payment {
+      margin-top: 1em;
+}
+.scan {
+      margin-top: 2em;
+      position: relative;
+}
+.scan__image {
+      position: absolute;
+      top: 40px;
+}
+.btnLogo {
+      width: 10px;
+      height: 10px;
+      padding-top: 3px;
+      margin: 0px 0 0 0;
+
+}
+.googleLogo {
+      padding: 0 0 7px 0;
+}
+.card__box {
+      padding: auto;
+}
+
+.btn__main {
+      margin-left: 1px;
+      width: 225.06px;
+      height: 38px;
+      background: #d5effb;
+      border-radius: 9.13546px;
+      padding: 7px 2px;
+}
+.download {
+      color: #20336b;
+      font-family: 'DM Sans';
+}
+.btnLogo {
+      width: 64px;
+      height: 20px;
+      vertical-align: unset;
+}
+
+.cad__box__title {
+      color: #1e336b;
+      font-size: 20px;
+}
+.container.card__box .padding__class {
+      padding: 0 30px 30px 0px;
+}
+.cad__box__title::before {
+      content: '|';
+      padding-right: 10px;
+      font-size: 22px;
+      font-weight: 100;
+}
+.padding__class.p {
+      font-size: 14px;
+}
+.pay_sec {
+      margin: 0 0 0 2px;
+}
+.Newsection {
+      background-image: url('../../../../assets/cutBackgroundImage.png');
+      /* background: rebeccapurple; */
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+  .download_button a {
+      width: auto;
+      display: flex;
+      background: #D5EFFB;
+      /* justify-content: space-between; */
+      /* gap: 20px; */
+      padding: 10px;
+      height: 38px;
+      border-radius: 9px;
+      position: relative;
+      top: 45px;
+  }
+  .download_button {
+      width: 211px;
+  }
+  .download_button p
+  {
+
+      color:#20336B;
+  }
+  .col-6.Left_sec {
+      position: relative;
+      left: 10%;
+      /* top: 66%; */
+      margin-top: 172px;
+  }
+  .Leading_spacing p {
+      color: #fff;
+  }
+  .download_button a {
+    width: auto;
+    display: flex;
+    background: #D5EFFB;
+    /* justify-content: space-between; */
+    /* gap: 20px; */
+    padding: 10px;
+    height: 38px;
+    border-radius: 9px;
+    position: relative;
+    top: 45px;
+}

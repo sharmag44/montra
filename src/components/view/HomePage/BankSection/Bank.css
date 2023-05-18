@@ -1,0 +1,32 @@
+.Bank {
+      background-color: #ebf2f9;
+}
+.title {
+      font-family: 'Test Söhne';
+      font-size: 24px;
+      line-height: 16px;
+      color: #50ccfe;
+      padding: 10px 0;
+}
+.subTitle {
+      line-height: 48px;
+      word-spacing: 2px;
+      color: #1e336b;
+}
+
+/* .bankImage {
+      width: 216.81px;
+      height: 469.12px;
+} */
+
+.col-6.sideBox {
+      height: 30vh;
+      padding: 200px 200px 200px 0;
+      margin-top: 10%;
+}
+.card__box__title {
+      font-size: 20px;
+}
+.padding__space {
+      padding: 30px;
+}

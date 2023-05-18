@@ -1,0 +1,112 @@
+p {
+      width: 309px;
+      height: 22px;
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 140%;
+}
+
+p.sub_text {
+      font-family: 'Test Söhne';
+      font-size: 14px;
+      line-height: 140%;
+      margin-bottom: 10px;
+      color: #1e336b;
+}
+
+.location {
+      margin-bottom: 17px;
+      color: #1e336b;
+      font-size: 16px;
+      line-height: 140%;
+}
+
+i.fa.fa-map-marker {
+      margin-right: 5px;
+}
+.csm_address {
+      color: #1e336b;
+      font-size: 16px;
+      line-height: 140%;
+}
+.sub_text {
+      margin-top: 10px;
+}
+.sub_heading {
+      color: #50ccfe;
+      font-size: 16px;
+      line-height: 135%;
+      margin-bottom: 10px;
+      margin-top: -5px !important;
+}
+a:link {
+      text-decoration: none;
+}
+.out_footer ul {
+      display: flex;
+      margin-left: -1%;
+}
+
+ul {
+      list-style-type: none;
+}
+.out_footer li {
+      margin-left: 56px;
+      margin-right: 24px;
+      font-size: 14px;
+      line-height: 140%;
+      color: #0d152e;
+}
+#lab_social_icon_footer {
+      padding: 40px -15px;
+}
+hr {
+      margin-left: 100px;
+}
+
+#lab_social_icon_footer a {
+      color: #333;
+}
+
+#lab_social_icon_footer .social:hover {
+      -webkit-transform: scale(1.1);
+      -moz-transform: scale(1.1);
+      -o-transform: scale(1.1);
+}
+
+#lab_social_icon_footer .social {
+      -webkit-transform: scale(0.8);
+      /* Browser Variations: */
+
+      -moz-transform: scale(0.8);
+      -o-transform: scale(0.8);
+      -webkit-transition-duration: 0.5s;
+      -moz-transition-duration: 0.5s;
+      -o-transition-duration: 0.5s;
+}
+/*
+      Multicoloured Hover Variations
+  */
+
+#lab_social_icon_footer #social-fb:hover {
+      color: #3b5998;
+}
+
+#lab_social_icon_footer #social-tw:hover {
+      color: #4099ff;
+}
+
+#lab_social_icon_footer #social-gp:hover {
+      color: #d34836;
+}
+
+#lab_social_icon_footer #social-em:hover {
+      color: #f39c12;
+}
+
+.text-uppercase {
+      text-transform: uppercase !important;
+      color: #1e336b;
+      font-size: 18px;
+      line-height: 135%;
+}

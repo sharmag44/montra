@@ -1,0 +1,113 @@
+.Lending {
+      background-image: url('../../../../assets/cutBackgroundImage.png');
+      background-size: cover;
+      height: 128vh;
+      background-clip: border-box;
+      background-position: bottom;
+}
+.LendingContent {
+      margin-top: 30%;
+}
+.LendingContent p {
+      width: 73px;
+      height: 16px;
+      font-family: 'Test Söhne';
+      font-size: 20px;
+      line-height: 16px;
+      display: flex;
+      align-items: center;
+      text-transform: capitalize;
+      color: #50ccfe;
+}
+.LendingContent h3 {
+      width: 536px;
+      height: 184px;
+      font-family: 'Test Söhne';
+      font-size: 38px;
+      line-height: 120%;
+      letter-spacing: 0.02em;
+      color: #ffffff;
+}
+.Compare-Loan-Offers h3 {
+      font-family: 'Test Söhne';
+      font-size: 22px;
+      line-height: 23px;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+}
+.Compare-Loan-Offers p {
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #c1c1c1;
+}
+.Instant-Loan-Disbursements h3 {
+      font-family: 'Test Söhne';
+      font-size: 22px;
+      line-height: 23px;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+}
+.Instant-Loan-Disbursements p {
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #c1c1c1;
+}
+
+.Track-Loan-Applications h3 {
+      font-family: 'Test Söhne';
+      font-size: 22px;
+      line-height: 23px;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+}
+.Track-Loan-Applications p {
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #c1c1c1;
+}
+/* 
+/////////// */
+.Make-Loan-Repayments h3 {
+      font-family: 'Test Söhne';
+      font-size: 22px;
+      line-height: 23px;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+}
+.Make-Loan-Repayments p {
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #c1c1c1;
+}
+
+.View-Loan-Statements h3 {
+      font-family: 'Test Söhne';
+      font-size: 22px;
+      line-height: 23px;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+}
+.View-Loan-Statements p {
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #c1c1c1;
+}
+
+.Get-Payment-Reminders h3 {
+      font-family: 'Test Söhne';
+      font-size: 22px;
+      line-height: 23px;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+}
+.Get-Payment-Reminders p {
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #c1c1c1;
+}

@@ -1,0 +1,84 @@
+.issurance-section {
+      margin-top: 20px;
+}
+.issurance-image {
+      width: 90%;
+}
+.issurance-section p {
+      width: 89px;
+      height: 16px;
+
+      font-family: 'Test Söhne';
+      font-size: 20px;
+      line-height: 16px;
+      display: flex;
+      align-items: center;
+      text-transform: capitalize;
+
+      color: #50ccfe;
+}
+.issurance-section h3 {
+      width: 536px;
+      height: 184px;
+
+      font-family: 'Test Söhne';
+      font-size: 38px;
+      line-height: 120%;
+      /* or 46px */
+
+      letter-spacing: -0.03em;
+
+      color: #1e336b;
+      font-weight: 600;
+}
+.Compare-Insurance-Plans h4 {
+      width: 250px;
+      height: 30px;
+      font-family: 'Test Söhne';
+      font-size: 20px;
+      line-height: 120%;
+      letter-spacing: 0.02em;
+      color: #1e336b;
+}
+.Compare-Insurance-Plans p {
+      width: 250px;
+      height: 100px;
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #1e336b;
+}
+.View-Policy-Details h4 {
+      width: 250px;
+      height: 30px;
+      font-family: 'Test Söhne';
+      font-size: 20px;
+      line-height: 120%;
+      letter-spacing: 0.02em;
+      color: #1e336b;
+}
+.View-Policy-Details p {
+      width: 250px;
+      height: 100px;
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #1e336b;
+}
+.Renew-Insurance-Policies h4 {
+      width: 250px;
+      height: 30px;
+      font-family: 'Test Söhne';
+      font-size: 20px;
+      line-height: 120%;
+      letter-spacing: 0.02em;
+      color: #1e336b;
+}
+.Renew-Insurance-Policies p {
+      width: 250px;
+      height: 100px;
+      font-family: 'Test Söhne';
+      font-size: 16px;
+      line-height: 130%;
+      color: #1e336b;
+}

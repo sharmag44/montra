@@ -1,0 +1,18 @@
+.logo {
+      position: relative;
+}
+
+.logo__spacing {
+      position: absolute;
+      width: 180.5px;
+      height: 100.14px;
+      left: 91.5px;
+      z-index: 1;
+      top: -0.5px;
+      /* box-shadow: 0px 3.37947px 9px rgba(0, 0, 0, 0.7); */
+}
+.nav2 {
+      background-image: url('../../assets/background.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+}

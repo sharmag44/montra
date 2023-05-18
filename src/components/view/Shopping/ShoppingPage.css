@@ -1,0 +1,30 @@
+.Shopping {
+      background-image: url('../../../assets/shoppingBackground.png');
+      background-size: cover;
+      height: 100vh;
+      background-position: center;
+      background-repeat: no-repeat;
+}
+
+.title {
+      color: #ffffff;
+      font-size: 20px;
+      line-height: 45px;
+      font-size: 2.5rem;
+      width: 13em;
+}
+.title__text {
+      color: #ffffff;
+      font-size: 18px;
+      line-height: 22px;
+      width: 17em;
+}
+.sideText {
+      padding: 5rem 10rem;
+}
+.main__title {
+      color: #50ccfe !important;
+}
+.shoppingPart {
+      padding: 1rem 0 0 23rem;
+}

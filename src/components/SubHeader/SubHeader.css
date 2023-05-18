@@ -1,0 +1,45 @@
+.sub-nav-link{
+    color: #FFFFFF;
+}
+.sub-header-button{
+    display: flex;
+    padding: 2px 4px;
+    gap: 9.46px;
+    
+    width: 160px;
+    height: 40px;
+    
+    background: #50CCFE;
+    border-radius: 8px; 
+}
+.sub-header-button button{
+    margin-top: 3px;
+    padding: 10px 10px 7px 10px;
+    height: 30px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+/* or 17px */
+display: flex;
+align-items: center;
+letter-spacing: -0.582978px;
+color: #233C77;
+background: #FFFFFF;
+border: #FFFFFF;
+box-shadow: 0px 1px 3px rgba(19, 33, 64, 0.2);
+border-radius: 8px;
+}
+.sign-in button{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    width: 140px;
+    height: 40px;   
+    border: #50CCFE;
+    background: #50CCFE;
+    border-radius: 77.0558px;
+    color: #FFFFFF;
+}
