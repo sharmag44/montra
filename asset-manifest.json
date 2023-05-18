@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.613ab7c8.css",
+    "main.js": "/static/js/main.1445e26b.js",
+    "static/media/shoppingBackground.png": "/static/media/shoppingBackground.2384544787ff542dd53e.png",
+    "static/media/lennding.png": "/static/media/lennding.0b66ba26161cad9b24c3.png",
+    "static/media/investment.png": "/static/media/investment.6415e74298e563d9c732.png",
+    "static/media/issurance.png": "/static/media/issurance.448771d3529d21bc1a63.png",
+    "static/media/shopping.png": "/static/media/shopping.7078ab14830c4bfceafa.png",
+    "static/media/banking.png": "/static/media/banking.1d3a032ea9a64d218114.png",
+    "static/media/payments.png": "/static/media/payments.d081e914b0ae57bf705d.png",
+    "static/media/agencyBanking.png": "/static/media/agencyBanking.cd8f9a0ebcc6dc08ee58.png",
+    "static/media/dashboard.png": "/static/media/dashboard.559cc7bae3aaae39ba71.png",
+    "static/media/cutBackgroundImage.png": "/static/media/cutBackgroundImage.9c47c45e6f77d0afb966.png",
+    "static/media/scanAndPay.png": "/static/media/scanAndPay.c2d2ace61491ce47fb8b.png",
+    "static/media/logo.png": "/static/media/logo.12bd6c0bf1c2978cf3b3.png",
+    "index.html": "/index.html",
+    "main.613ab7c8.css.map": "/static/css/main.613ab7c8.css.map",
+    "main.1445e26b.js.map": "/static/js/main.1445e26b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613ab7c8.css",
+    "static/js/main.1445e26b.js"
+  ]
+}
